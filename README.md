@@ -1,2 +1,2 @@
-<a href="https://metrics.lecoq.io/about/giann"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/giann"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+[![Benoit Giannangeli's github stats](https://github-readme-stats.vercel.app/api?username=giann)](https://github.com/anuraghazra/github-readme-stats)
+
